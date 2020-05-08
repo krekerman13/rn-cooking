@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
-const CategoriesMealScreen = () => {
+const CategoriesWeedScreen = () => {
   return (
     <View style={styles.screen}>
       <Text>Categories Meal Screen</Text>
@@ -9,7 +9,7 @@ const CategoriesMealScreen = () => {
   );
 };
 
-export default CategoriesMealScreen;
+export default CategoriesWeedScreen;
 
 const styles = StyleSheet.create({
   screen: {
